@@ -1,19 +1,24 @@
 {
-  "name": "Dhikr Extension",
-  "description": "Remember your Creator from time to time!",
-  "version": "1.0",
-  "manifest_version": 2,
-  "permissions": ["alarms", "notifications", "storage"],
-  "background": {
-    "scripts": ["background.js"],
-    "persistent": false
-  },
-  "icons": {
-    "128": "dhikr.png"
-  },
-  "browser_action": {
-    "default_icon" : "dhikr.png",
-    "default_title": "Dhikr",
-    "default_popup": "popup.html"
-  }
+    "name": "Dhikr Extension",
+    "description": "Remember your Creator from time to time!",
+    "version": "1.2",
+    "manifest_version": 2,
+    "permissions": ["alarms", "notifications", "storage"],
+    "background": {
+	"scripts": ["background.js"]
+    },
+    "icons": {
+	"128": "dhikr.png"
+    },
+    "applications": {
+	"gecko": {
+	    "id": "admin@akhira.org",
+	    "strict_min_version": "42.0"
+	}
+    },
+    "browser_action": {
+	"default_icon" : "dhikr.png",
+	"default_title": "Dhikr",
+	"default_popup": "popup.html"
+    }
 }
