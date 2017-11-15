@@ -1,5 +1,4 @@
 # Dhikr Extension
-===============
 Remember your Creator from time to time!
 
 ## Features
