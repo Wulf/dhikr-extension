@@ -16,7 +16,7 @@ Remember your Creator from time to time!
 
 ### Firefox
 
-Will be released on the [AMO](addons.mozilla.org).
+Will be released on the [AMO](https://addons.mozilla.org).
 
 ## Developers
 
