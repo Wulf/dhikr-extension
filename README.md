@@ -10,13 +10,15 @@ Remember your Creator from time to time!
 
 ### Chrome / Chromium
 
-1. Download extension from the `/releases` folder, 
+1. Download extension from the `/releases` folder,
 2. Go to `chrome://extensions` (use your address bar).
 3. Drag it into chrome!
 
+*It's coming to the Chrome Web Store soon!*
+
 ### Firefox
 
-Will be released on the [AMO](https://addons.mozilla.org).
+Install it from the [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/dhikr-extension/) website.
 
 ## Developers
 
